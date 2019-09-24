@@ -1,0 +1,467 @@
+AppID : 381210, change number : 6819764/6819764, last change : Wed Sep  4 09:24:46 2019 
+"381210"
+{
+	"common"
+	{
+		"name"		"Dead by Daylight"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"clienticon"		"b9532c5859af6cb1b80cdd191554d4a6048a54c6"
+		"clienttga"		"93c65c17261046128fd7709337713016ad552064"
+		"icon"		"3d52bda003b28428330a6a08f4b3e1f12a7d4955"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"	"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"logo"		"78a3f76693dbcd5dd80b5fcf531e8b81b3dd3163"
+		"logo_small"		"78a3f76693dbcd5dd80b5fcf531e8b81b3dd3163_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"381210_eula_0"
+				"name"		"Dead by Daylight EULA"
+				"url"		"http://store.steampowered.com//eula/381210_eula_0"
+			}
+		}
+		"osarch"		"64"
+		"metacritic_name"		"Dead by Daylight"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"23"
+				"height_pct"		"84"
+			}
+		}
+		"store_asset_mtime"		"1566496091"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Behaviour Digital Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Behaviour Digital Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_33"		"1"
+			"category_29"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1465887600"
+		"steam_release_date"		"1465887600"
+		"metacritic_score"		"71"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dead-by-daylight?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"381210"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3978"
+			"2"		"3859"
+			"3"		"1685"
+			"4"		"1662"
+			"5"		"1687"
+			"6"		"4345"
+			"7"		"3843"
+			"8"		"5228"
+			"9"		"1697"
+			"10"		"5711"
+			"11"		"4166"
+			"12"		"19"
+			"13"		"4667"
+			"14"		"1721"
+			"15"		"3839"
+			"16"		"9"
+			"17"		"1719"
+			"18"		"5611"
+			"19"		"4026"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Behaviour Digital Inc."
+		"publisher"		"Behaviour Digital Inc."
+		"homepage"		"http://www.deadbydaylight.com"
+		"listofdlc"		"489980,492140,492360,499080,509060,509061,516780,528320,528321,528322,528323,528324,530710,530711,534130,534131,554380,554381,556360,556370,556371,562130,566500,573240,573940,577900,577901,582600,606900,620230,627510,639710,661770,700280,700281,700282,724650,750380,750381,799200,925750,971790,1009820,1009821,1089270,1135280"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dead by Daylight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DeadByDaylight.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"name"		"VC 2010 Redist"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"maxsize"		"19265607"
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"name"		"VC 2013 Redist"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"maxsize"		"13699237"
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"name"		"VC 2015 Redist"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"maxsize"		"29759921"
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"name"		"DirectX Jun 2010 Redist"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"maxsize"		"102931551"
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"381211"
+		{
+			"name"		"Dead by Daylight Content"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"		"2873811183562244463"
+				"public-test"		"8639602702998444043"
+			}
+			"maxsize"		"29969395197"
+			"encryptedmanifests"
+			{
+				"compat-qa-external"
+				{
+					"encrypted_gid_2"		"A1B45764C080362C8939EE8BA98B3AFC"
+					"encrypted_size_2"		"34381DB8D2610B68829491E5F1CD7AF2"
+				}
+				"development-external"
+				{
+					"encrypted_gid_2"		"97182904D25F8C759D06CDD4F27F5340"
+					"encrypted_size_2"		"3039837497BD16EB6FC57252FF1DF415"
+				}
+				"loc-external"
+				{
+					"encrypted_gid_2"		"1F8E38D19DD423525A687088B63D7538"
+					"encrypted_size_2"		"CF48CEA6B7BEB3884B101433E4684D05"
+				}
+				"mv-external"
+				{
+					"encrypted_gid_2"		"24C012B5462E1A5A688ED7394611B709"
+					"encrypted_size_2"		"26DE950AD6EAAD3F36CF52B815A16B7D"
+				}
+				"nv-external"
+				{
+					"encrypted_gid_2"		"E65139B1F6BDA3C469FD7E50A7CF7DBC"
+					"encrypted_size_2"		"BB367826599F3BFE66BF9E72F78FF66D"
+				}
+				"public-test-internal"
+				{
+					"encrypted_gid_2"		"759BFCD4CA2E37F8FC33A79CFBB3980C"
+					"encrypted_size_2"		"0270FD77C1F28C7E67CF5DAD98B0068D"
+				}
+				"shipping-cert-internal"
+				{
+					"encrypted_gid_2"		"9406C79099855C4CA187F44496B20F52"
+					"encrypted_size_2"		"3545F14CCD7E6BC68A5AF606B11C10AC"
+				}
+				"shipping-dev-internal"
+				{
+					"encrypted_gid_2"		"50B06B0E8ECADCF511612025682A1F66"
+					"encrypted_size_2"		"D6033FF0BED2D0ADF1D403924C3104FA"
+				}
+				"shipping-live-internal"
+				{
+					"encrypted_gid_2"		"32B604E208CD44157346F023A7740CE5"
+					"encrypted_size_2"		"6CB581BC924750506FA342A496A46AD5"
+				}
+				"shipping-ptb-internal"
+				{
+					"encrypted_gid_2"		"49450C0892C98FE653AE604D630749AA"
+					"encrypted_size_2"		"F995B868103274C0BD29FBFB48635885"
+				}
+				"shipping-qa-internal"
+				{
+					"encrypted_gid_2"		"B1758E5C4B4D4B02EFE8E0A8876DC437"
+					"encrypted_size_2"		"366FCC13ACAC627D2F1C469FD98F605C"
+				}
+				"shipping-stage-internal"
+				{
+					"encrypted_gid_2"		"0892CB32D0AFC0534959A06E770A2ADC"
+					"encrypted_size_2"		"470C51205252AD020C28FF8B1D259B5D"
+				}
+			}
+		}
+		"381212"
+		{
+			"name"		"Dead by Daylight Digital Artbook"
+			"dlcappid"		"492360"
+			"manifests"
+			{
+				"public"		"5921550076694751899"
+			}
+			"maxsize"		"31578081"
+		}
+		"381213"
+		{
+			"name"		"Dead by Daylight Original Soundtrack"
+			"dlcappid"		"492140"
+			"manifests"
+			{
+				"public"		"2300808772825887693"
+			}
+			"maxsize"		"131329936"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4069065"
+				"timeupdated"		"1565103608"
+			}
+			"compat-qa-external"
+			{
+				"buildid"		"3773843"
+				"description"		"Shipping Build (On QA) for Compat Testing"
+				"pwdrequired"		"1"
+				"timeupdated"		"1556329453"
+			}
+			"development-external"
+			{
+				"buildid"		"3558133"
+				"description"		"Dev Build (external)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550074765"
+			}
+			"loc-external"
+			{
+				"buildid"		"3802089"
+				"description"		""
+				"pwdrequired"		"1"
+				"timeupdated"		"1557259680"
+			}
+			"mv-external"
+			{
+				"buildid"		"3908548"
+				"description"		"Marketing External"
+				"pwdrequired"		"1"
+				"timeupdated"		"1560269641"
+			}
+			"nv-external"
+			{
+				"buildid"		"2588192"
+				"description"		""
+				"pwdrequired"		"1"
+				"timeupdated"		"1520541395"
+			}
+			"public-test"
+			{
+				"buildid"		"4149769"
+				"description"		"External Branch for Public Tests"
+				"timeupdated"		"1567522891"
+			}
+			"public-test-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Internal Branch for Public Tests"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567518916"
+			}
+			"shipping-cert-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on Cert environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567518931"
+			}
+			"shipping-dev-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on Dev environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567518956"
+			}
+			"shipping-live-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on Live environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567518979"
+			}
+			"shipping-ptb-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on PTB environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567518991"
+			}
+			"shipping-qa-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on QA environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567519002"
+			}
+			"shipping-stage-internal"
+			{
+				"buildid"		"4163090"
+				"description"		"Shipping Build (on Stage environment)"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567519013"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+	}
+}
