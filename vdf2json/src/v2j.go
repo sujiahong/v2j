@@ -66,6 +66,6 @@ func readVdf(fileName string, m *map[string]interface{})  {
 func main() {
 	m := make(map[string]interface{})
 	readVdf("sample.vdf", &m)
-	m1 := m["381210"].(map[string]interface{})["common"].(map[string]interface{})["name"]
+	m1 := m["381210"].(map[string]interface{})["depots"].(map[string]interface{})["branches"].(map[string]interface{})["public"].(map[string]interface{})["buildid"]
 	fmt.Println(m1)
 }
